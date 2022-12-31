@@ -1,0 +1,97 @@
+.container{
+    position: relative;
+    width: 1450px;
+    height: 700px;
+    margin:0 auto;
+    background: url(istockphoto-944880340-170667a.jpg);
+}
+
+.text1{
+    position: absolute;
+    color: aliceblue;
+    margin-left: 4.4in;
+    font-size: 1.8cm;
+    margin-top: 3in;
+    font-family:cursive;
+}
+ 
+.text2{
+    position: absolute;
+    font-size: 0.5cm;
+    color:dimgray;
+    margin-left: 5.3in;
+    margin-top: 4in;
+    font-family:cursive;
+}
+.text3{
+    position: absolute;
+    color:dimgray;
+    margin-left: 6.7in;
+    margin-top: 6in;
+    font-family:cursive;
+}
+.linkedin{
+    width: 1cm;
+    height: 1cm;
+    position: absolute;
+    color:dimgray;
+    margin-left: 6.2in;
+    margin-top: 5in;
+    font-family:cursive;
+    border: 10px;
+    border-radius: 15px;
+    border-width: 5px;
+}
+.text4{
+    position: absolute;
+    color:dimgray;
+    margin-left: 5.7in;
+    margin-top: 6in;
+    font-family:cursive;
+}
+.text1:hover{
+        color: lightslategrey;
+}
+.text2:hover{
+    color: lightgray;
+}
+.instagram{
+    width: 1cm;
+    height: 1cm;
+    position: absolute;
+    color:dimgray;
+    margin-left: 7.2in;
+    margin-top: 5in;
+    font-family:cursive;
+    border: 10px;
+    border-radius: 15px;
+    border-width: 5px;
+}
+.text3:hover{
+    color: aliceblue;
+}
+.text4:hover{
+    color: aliceblue;
+}
+.mypic{
+    position: absolute;
+    height: 2in;
+    width: 1.6in;
+    margin-top: 2cm;
+    margin-left: 6.8in;
+    border: 2px;
+    border-radius: 20px;
+    padding-left: 10px;
+    
+}
+ .navbar{
+   background-color: lightgray;
+}
+.about{
+    color:black;
+    font-size: 20px;
+}
+.home{
+    color:black;
+    font-size: 20px;
+}
